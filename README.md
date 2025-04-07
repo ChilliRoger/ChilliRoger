@@ -1,5 +1,5 @@
 # ⛓️ About Me:
-💻 Tech Innovator – Exploring software development, AI/ML, and blockchain.<br><br>🚀 Hackathon Enthusiast – Love solving real-world problems with innovative tech.<br><br>🛠️ Full-Stack Developer – Hands-on experience with Kotlin, Java, and web dev.<br><br>🎯 Open-Source Contributor – Actively improving and collaborating on GitHub.<br><br>📈 Tech Community Leader – Organizing events, leading projects, and sharing knowledge.
+💻 Tech Innovator – Exploring software development, AI/ML, and blockchain.<br><br>🚀 Hackathon Enthusiast – Love solving real-world problems with innovative tech.<br><br>🛠️ MERN-Stack Developer – Hands-on experience with Kotlin, Java, and web dev.<br><br>🎯 Open-Source Contributor – Actively improving and collaborating on GitHub.<br><br>📈 Tech Community Leader – Organizing events, leading projects, and sharing knowledge.
 
 
 # 💻 Tech Stack:
