@@ -70,17 +70,6 @@
 ---
 
 
-##  DAILY INSPIRATION PROTOCOL
-
-<div align="center">
-  
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-  
-</div>
-
----
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 </div>
