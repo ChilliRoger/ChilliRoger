@@ -17,13 +17,15 @@
 ---
 
 
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=root@matrix:~%24+sudo+access+neural_networks;root@matrix:~%24+./deploy_blockchain_protocols.sh;root@matrix:~%24+npm+run+build-fullstack-app;root@matrix:~%24+git+push+origin+open-source;root@matrix:~%24+./community_leadership.exe;root@matrix:~%24+python3+hackathon_solver.py;root@matrix:~%24+echo+'SYSTEM+READY';" alt="Terminal Commands" />
+##  DECRYPTING USER PROFILE
+
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=root@matrix:~%24+sudo+access+neural_networks;root@matrix:~%24+./deploy_blockchain_protocols.sh;root@matrix:~%24+npm+run+build-fullstack-app;root@matrix:~%24+git+push+origin+open-source;root@matrix:~%24+./community_leadership.exe;root@matrix:~%24+python3+hackathon_solver.py;root@matrix:~%24+echo+'SYSTEM+READY';" alt="Terminal Commands" />
 </div>
 
 ---
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -54,7 +56,7 @@
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+##  SYSTEM ANALYTICS
 
 <div align="center">
 
@@ -69,7 +71,7 @@
 ---
 
 
-## 💡 DAILY INSPIRATION PROTOCOL
+##  DAILY INSPIRATION PROTOCOL
 
 <div align="center">
   
