@@ -55,7 +55,7 @@
 
 ---
 
-##  SYSTEM ANALYTICS
+##  SYSTEM ANALYTIC
 
 <div align="center">
 
