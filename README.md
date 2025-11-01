@@ -69,6 +69,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChilliRoger&label=Profile%20views&color=0e75b6&style=flat" alt="ChilliRoger" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
