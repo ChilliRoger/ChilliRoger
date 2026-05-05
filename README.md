@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ChilliRoger&theme=hacker&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B6B&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChilliRoger&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
